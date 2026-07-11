@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1672-richest-customer-wealth](https://github.com/mxoizzz/DSA/tree/master/1672-richest-customer-wealth) |
 | [1732-find-the-highest-altitude](https://github.com/mxoizzz/DSA/tree/master/1732-find-the-highest-altitude) |
 | [1920-build-array-from-permutation](https://github.com/mxoizzz/DSA/tree/master/1920-build-array-from-permutation) |
+| [1929-concatenation-of-array](https://github.com/mxoizzz/DSA/tree/master/1929-concatenation-of-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1920-build-array-from-permutation](https://github.com/mxoizzz/DSA/tree/master/1920-build-array-from-permutation) |
+| [1929-concatenation-of-array](https://github.com/mxoizzz/DSA/tree/master/1929-concatenation-of-array) |
 ## Prefix Sum
 |  |
 | ------- |
