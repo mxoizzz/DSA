@@ -10,7 +10,7 @@ class Solution {
                 }
                 i++;
             }
-            if(count>max){max = count;}
+            max = Math.max(count,max);
         }
         return max;
     }
