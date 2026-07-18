@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1732-find-the-highest-altitude](https://github.com/mxoizzz/DSA/tree/master/1732-find-the-highest-altitude) |
 | [1920-build-array-from-permutation](https://github.com/mxoizzz/DSA/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/mxoizzz/DSA/tree/master/1929-concatenation-of-array) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/mxoizzz/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/mxoizzz/DSA/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/mxoizzz/DSA/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/mxoizzz/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/mxoizzz/DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1512-number-of-good-pairs](https://github.com/mxoizzz/DSA/tree/master/1512-number-of-good-pairs) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/mxoizzz/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2235-add-two-integers](https://github.com/mxoizzz/DSA/tree/master/2235-add-two-integers) |
 | [2469-convert-the-temperature](https://github.com/mxoizzz/DSA/tree/master/2469-convert-the-temperature) |
 | [2769-find-the-maximum-achievable-number](https://github.com/mxoizzz/DSA/tree/master/2769-find-the-maximum-achievable-number) |
@@ -81,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/mxoizzz/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/mxoizzz/DSA/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/mxoizzz/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 <!---LeetCode Topics End-->
