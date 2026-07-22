@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1260-shift-2d-grid](https://github.com/mxoizzz/DSA/tree/master/1260-shift-2d-grid) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/mxoizzz/DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/mxoizzz/DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1431-kids-with-the-greatest-number-of-candies](https://github.com/mxoizzz/DSA/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1480-running-sum-of-1d-array](https://github.com/mxoizzz/DSA/tree/master/1480-running-sum-of-1d-array) |
 | [1512-number-of-good-pairs](https://github.com/mxoizzz/DSA/tree/master/1512-number-of-good-pairs) |
 | [1672-richest-customer-wealth](https://github.com/mxoizzz/DSA/tree/master/1672-richest-customer-wealth) |
