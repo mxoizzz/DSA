@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/mxoizzz/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/mxoizzz/DSA/tree/master/0027-remove-element) |
 | [0066-plus-one](https://github.com/mxoizzz/DSA/tree/master/0066-plus-one) |
+| [0075-sort-colors](https://github.com/mxoizzz/DSA/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/mxoizzz/DSA/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/mxoizzz/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0217-contains-duplicate](https://github.com/mxoizzz/DSA/tree/master/0217-contains-duplicate) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/mxoizzz/DSA/tree/master/0015-3sum) |
+| [0075-sort-colors](https://github.com/mxoizzz/DSA/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/mxoizzz/DSA/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/mxoizzz/DSA/tree/master/0217-contains-duplicate) |
 | [0977-squares-of-a-sorted-array](https://github.com/mxoizzz/DSA/tree/master/0977-squares-of-a-sorted-array) |
@@ -98,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/mxoizzz/DSA/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/mxoizzz/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/mxoizzz/DSA/tree/master/0027-remove-element) |
+| [0075-sort-colors](https://github.com/mxoizzz/DSA/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/mxoizzz/DSA/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/mxoizzz/DSA/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/mxoizzz/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
