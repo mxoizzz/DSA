@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/mxoizzz/DSA/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/mxoizzz/DSA/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/mxoizzz/DSA/tree/master/0242-valid-anagram) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/mxoizzz/DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1512-number-of-good-pairs](https://github.com/mxoizzz/DSA/tree/master/1512-number-of-good-pairs) |
 ## Simulation
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0058-length-of-last-word](https://github.com/mxoizzz/DSA/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/mxoizzz/DSA/tree/master/0125-valid-palindrome) |
+| [0242-valid-anagram](https://github.com/mxoizzz/DSA/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/mxoizzz/DSA/tree/master/0344-reverse-string) |
 | [0680-valid-palindrome-ii](https://github.com/mxoizzz/DSA/tree/master/0680-valid-palindrome-ii) |
 | [0709-to-lower-case](https://github.com/mxoizzz/DSA/tree/master/0709-to-lower-case) |
@@ -84,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/mxoizzz/DSA/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/mxoizzz/DSA/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/mxoizzz/DSA/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/mxoizzz/DSA/tree/master/0242-valid-anagram) |
 | [0977-squares-of-a-sorted-array](https://github.com/mxoizzz/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/mxoizzz/DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/mxoizzz/DSA/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
