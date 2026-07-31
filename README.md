@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1678-goal-parser-interpretation](https://github.com/mxoizzz/DSA/tree/master/1678-goal-parser-interpretation) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/mxoizzz/DSA/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/mxoizzz/DSA/tree/master/2114-maximum-number-of-words-found-in-sentences) |
+| [3794-reverse-string-prefix](https://github.com/mxoizzz/DSA/tree/master/3794-reverse-string-prefix) |
 ## Sorting
 |  |
 | ------- |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0876-middle-of-the-linked-list](https://github.com/mxoizzz/DSA/tree/master/0876-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/mxoizzz/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/mxoizzz/DSA/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
+| [3794-reverse-string-prefix](https://github.com/mxoizzz/DSA/tree/master/3794-reverse-string-prefix) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/mxoizzz/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Math
 |  |
