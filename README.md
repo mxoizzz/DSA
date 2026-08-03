@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/mxoizzz/DSA/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/mxoizzz/DSA/tree/master/0485-max-consecutive-ones) |
 | [0877-stone-game](https://github.com/mxoizzz/DSA/tree/master/0877-stone-game) |
+| [0905-sort-array-by-parity](https://github.com/mxoizzz/DSA/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/mxoizzz/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [1260-shift-2d-grid](https://github.com/mxoizzz/DSA/tree/master/1260-shift-2d-grid) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/mxoizzz/DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/mxoizzz/DSA/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/mxoizzz/DSA/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/mxoizzz/DSA/tree/master/0242-valid-anagram) |
+| [0905-sort-array-by-parity](https://github.com/mxoizzz/DSA/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/mxoizzz/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/mxoizzz/DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/mxoizzz/DSA/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
@@ -119,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/mxoizzz/DSA/tree/master/0344-reverse-string) |
 | [0680-valid-palindrome-ii](https://github.com/mxoizzz/DSA/tree/master/0680-valid-palindrome-ii) |
 | [0876-middle-of-the-linked-list](https://github.com/mxoizzz/DSA/tree/master/0876-middle-of-the-linked-list) |
+| [0905-sort-array-by-parity](https://github.com/mxoizzz/DSA/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/mxoizzz/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [2000-reverse-prefix-of-word](https://github.com/mxoizzz/DSA/tree/master/2000-reverse-prefix-of-word) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/mxoizzz/DSA/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
