@@ -1,21 +1,21 @@
 class Solution {
-    private void swap(int[] nums, int a, int b) {
-        int temp = nums[a];
-        nums[a] = nums[b];
-        nums[b] = temp;
-    }
     public int[] sortArrayByParity(int[] nums) {
+        int temp;
         int low = 0,
             mid = 0,
             high = nums.length-1;
         while(mid<high) {
             if(nums[mid] % 2 == 0) {
-                swap(nums,low,mid);
+                temp = nums[low];
+                nums[low] = nums[mid];
+                nums[mid] = temp;
                 low++;
                 mid++;
             }
             else {
-                swap(nums,mid,high);
+                temp = nums[mid];
+                nums[mid] = nums[high];
+                nums[high] = temp;
                 high--;
             }
         }
