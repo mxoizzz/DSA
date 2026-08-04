@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/mxoizzz/DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1512-number-of-good-pairs](https://github.com/mxoizzz/DSA/tree/master/1512-number-of-good-pairs) |
 | [3731-find-missing-elements](https://github.com/mxoizzz/DSA/tree/master/3731-find-missing-elements) |
+| [3945-digit-frequency-score](https://github.com/mxoizzz/DSA/tree/master/3945-digit-frequency-score) |
 ## Simulation
 |  |
 | ------- |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3536-maximum-product-of-two-digits](https://github.com/mxoizzz/DSA/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/mxoizzz/DSA/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/mxoizzz/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+| [3945-digit-frequency-score](https://github.com/mxoizzz/DSA/tree/master/3945-digit-frequency-score) |
 ## Number Theory
 |  |
 | ------- |
