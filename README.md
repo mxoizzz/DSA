@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0709-to-lower-case](https://github.com/mxoizzz/DSA/tree/master/0709-to-lower-case) |
 | [1108-defanging-an-ip-address](https://github.com/mxoizzz/DSA/tree/master/1108-defanging-an-ip-address) |
 | [1678-goal-parser-interpretation](https://github.com/mxoizzz/DSA/tree/master/1678-goal-parser-interpretation) |
+| [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/mxoizzz/DSA/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [2000-reverse-prefix-of-word](https://github.com/mxoizzz/DSA/tree/master/2000-reverse-prefix-of-word) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/mxoizzz/DSA/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/mxoizzz/DSA/tree/master/2114-maximum-number-of-words-found-in-sentences) |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0680-valid-palindrome-ii](https://github.com/mxoizzz/DSA/tree/master/0680-valid-palindrome-ii) |
+| [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/mxoizzz/DSA/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 ## Binary Search
 |  |
 | ------- |
