@@ -18,14 +18,15 @@ class Solution {
         return Math.abs(a);
     }
     public ListNode insertGreatestCommonDivisors(ListNode head) {
-        ListNode i=head;
-        ListNode j=head.next;
-        while (i.next!=null && j!=null){
-            ListNode n=new ListNode(gcd(i.val,j.val));
-            i.next=n;
-            n.next=j;
-            i=i.next.next;
-            j=j.next;
+        if(head==null || head.next==null){
+            return head;
+        }
+        ListNode curr=head;
+        while (curr.next!=null){
+            ListNode n=new ListNode(gcd(curr.val,curr.next.val));
+            n.next=curr.next;
+            curr.next=n;
+            curr=curr.next.next;
         }
         return head;
     }
