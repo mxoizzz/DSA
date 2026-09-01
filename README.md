@@ -216,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/mxoizzz/DSA/tree/master/0225-implement-stack-using-queues) |
 | [1598-crawler-log-folder](https://github.com/mxoizzz/DSA/tree/master/1598-crawler-log-folder) |
 | [2000-reverse-prefix-of-word](https://github.com/mxoizzz/DSA/tree/master/2000-reverse-prefix-of-word) |
 ## Dynamic Programming
@@ -235,4 +236,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1741-find-total-time-spent-by-each-employee](https://github.com/mxoizzz/DSA/tree/master/1741-find-total-time-spent-by-each-employee) |
 | [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/mxoizzz/DSA/tree/master/2356-number-of-unique-subjects-taught-by-each-teacher) |
+## Design
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/mxoizzz/DSA/tree/master/0225-implement-stack-using-queues) |
+## Queue
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/mxoizzz/DSA/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
