@@ -10,15 +10,20 @@
  * };
  */
 class Solution {
+
+private:
+    void traverse(TreeNode* node, vector<int>& res) {
+        if (node == nullptr) return;
+        
+        traverse(node->left, res); 
+        traverse(node->right, res); 
+        res.push_back(node->val);    
+    }
+
 public:
     vector<int> postorderTraversal(TreeNode* root) {
         vector<int> res;
-        if (root == nullptr) return res;
-        vector<int> leftTree = postorderTraversal(root->left);
-        res.insert(res.end(),leftTree.begin(),leftTree.end());
-        vector<int> rightTree = postorderTraversal(root->right);
-        res.insert(res.end(),rightTree.begin(),rightTree.end());
-        res.push_back(root->val);
+        traverse(root, res);
         return res;
     }
 };
