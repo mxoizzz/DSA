@@ -219,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/mxoizzz/DSA/tree/master/0094-binary-tree-inorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/mxoizzz/DSA/tree/master/0145-binary-tree-postorder-traversal) |
 | [0225-implement-stack-using-queues](https://github.com/mxoizzz/DSA/tree/master/0225-implement-stack-using-queues) |
 | [1598-crawler-log-folder](https://github.com/mxoizzz/DSA/tree/master/1598-crawler-log-folder) |
 | [2000-reverse-prefix-of-word](https://github.com/mxoizzz/DSA/tree/master/2000-reverse-prefix-of-word) |
@@ -251,12 +252,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/mxoizzz/DSA/tree/master/0094-binary-tree-inorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/mxoizzz/DSA/tree/master/0145-binary-tree-postorder-traversal) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/mxoizzz/DSA/tree/master/0094-binary-tree-inorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/mxoizzz/DSA/tree/master/0145-binary-tree-postorder-traversal) |
 ## Binary Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/mxoizzz/DSA/tree/master/0094-binary-tree-inorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/mxoizzz/DSA/tree/master/0145-binary-tree-postorder-traversal) |
 <!---LeetCode Topics End-->
