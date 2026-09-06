@@ -265,4 +265,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/mxoizzz/DSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/mxoizzz/DSA/tree/master/0145-binary-tree-postorder-traversal) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/mxoizzz/DSA/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->
