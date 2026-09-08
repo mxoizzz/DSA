@@ -10,5 +10,5 @@ class Solution {
             elements.put(nums[i],i);
         }
         return new int[2];
-    }
+    }   
 }
