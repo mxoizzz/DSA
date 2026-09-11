@@ -223,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/mxoizzz/DSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/mxoizzz/DSA/tree/master/0145-binary-tree-postorder-traversal) |
+| [0155-min-stack](https://github.com/mxoizzz/DSA/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/mxoizzz/DSA/tree/master/0225-implement-stack-using-queues) |
 | [1598-crawler-log-folder](https://github.com/mxoizzz/DSA/tree/master/1598-crawler-log-folder) |
 | [2000-reverse-prefix-of-word](https://github.com/mxoizzz/DSA/tree/master/2000-reverse-prefix-of-word) |
@@ -246,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/mxoizzz/DSA/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/mxoizzz/DSA/tree/master/0225-implement-stack-using-queues) |
 | [0707-design-linked-list](https://github.com/mxoizzz/DSA/tree/master/0707-design-linked-list) |
 ## Queue
