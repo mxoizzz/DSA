@@ -176,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/mxoizzz/DSA/tree/master/0066-plus-one) |
+| [0231-power-of-two](https://github.com/mxoizzz/DSA/tree/master/0231-power-of-two) |
 | [0371-sum-of-two-integers](https://github.com/mxoizzz/DSA/tree/master/0371-sum-of-two-integers) |
 | [0836-rectangle-overlap](https://github.com/mxoizzz/DSA/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/mxoizzz/DSA/tree/master/0877-stone-game) |
@@ -318,5 +319,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/mxoizzz/DSA/tree/master/0136-single-number) |
+| [0231-power-of-two](https://github.com/mxoizzz/DSA/tree/master/0231-power-of-two) |
 | [0371-sum-of-two-integers](https://github.com/mxoizzz/DSA/tree/master/0371-sum-of-two-integers) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/mxoizzz/DSA/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
