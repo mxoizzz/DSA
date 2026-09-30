@@ -328,4 +328,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/mxoizzz/DSA/tree/master/0231-power-of-two) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/mxoizzz/DSA/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/mxoizzz/DSA/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
