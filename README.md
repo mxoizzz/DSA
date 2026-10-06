@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/mxoizzz/DSA/tree/master/0344-reverse-string) |
 | [0680-valid-palindrome-ii](https://github.com/mxoizzz/DSA/tree/master/0680-valid-palindrome-ii) |
 | [0709-to-lower-case](https://github.com/mxoizzz/DSA/tree/master/0709-to-lower-case) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/mxoizzz/DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1108-defanging-an-ip-address](https://github.com/mxoizzz/DSA/tree/master/1108-defanging-an-ip-address) |
 | [1598-crawler-log-folder](https://github.com/mxoizzz/DSA/tree/master/1598-crawler-log-folder) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/mxoizzz/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -220,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/mxoizzz/DSA/tree/master/0011-container-with-most-water) |
 | [0680-valid-palindrome-ii](https://github.com/mxoizzz/DSA/tree/master/0680-valid-palindrome-ii) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/mxoizzz/DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/mxoizzz/DSA/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 ## Binary Search
 |  |
@@ -247,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/mxoizzz/DSA/tree/master/0145-binary-tree-postorder-traversal) |
 | [0155-min-stack](https://github.com/mxoizzz/DSA/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/mxoizzz/DSA/tree/master/0225-implement-stack-using-queues) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/mxoizzz/DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1598-crawler-log-folder](https://github.com/mxoizzz/DSA/tree/master/1598-crawler-log-folder) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/mxoizzz/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2000-reverse-prefix-of-word](https://github.com/mxoizzz/DSA/tree/master/2000-reverse-prefix-of-word) |
@@ -319,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/mxoizzz/DSA/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/mxoizzz/DSA/tree/master/0022-generate-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/mxoizzz/DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/mxoizzz/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Heap (Priority Queue)
 |  |
