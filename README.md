@@ -180,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/mxoizzz/DSA/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/mxoizzz/DSA/tree/master/0066-plus-one) |
 | [0231-power-of-two](https://github.com/mxoizzz/DSA/tree/master/0231-power-of-two) |
 | [0371-sum-of-two-integers](https://github.com/mxoizzz/DSA/tree/master/0371-sum-of-two-integers) |
