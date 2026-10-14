@@ -1,9 +1,8 @@
 class Solution {
     private int timeToSeconds(String time){
-        String[] parts = time.split(":");
-        int hours = Integer.parseInt(parts[0]);
-        int minutes = Integer.parseInt(parts[1]);
-        int seconds = Integer.parseInt(parts[2]);
+        int hours = (time.charAt(0) - '0') * 10 + (time.charAt(1) - '0');
+        int minutes = (time.charAt(3) - '0') * 10 + (time.charAt(4) - '0');
+        int seconds = (time.charAt(6) - '0') * 10 + (time.charAt(7) - '0');
 
         return (hours * 3600) + (minutes * 60) + seconds;
     }
