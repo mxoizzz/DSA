@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3498-reverse-degree-of-a-string](https://github.com/mxoizzz/DSA/tree/master/3498-reverse-degree-of-a-string) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/mxoizzz/DSA/tree/master/3760-maximum-substrings-with-distinct-start) |
 | [3794-reverse-string-prefix](https://github.com/mxoizzz/DSA/tree/master/3794-reverse-string-prefix) |
+| [3986-number-of-elapsed-seconds-between-two-times](https://github.com/mxoizzz/DSA/tree/master/3986-number-of-elapsed-seconds-between-two-times) |
 ## Sorting
 |  |
 | ------- |
@@ -214,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3875-construct-uniform-parity-array-i](https://github.com/mxoizzz/DSA/tree/master/3875-construct-uniform-parity-array-i) |
 | [3895-count-digit-appearances](https://github.com/mxoizzz/DSA/tree/master/3895-count-digit-appearances) |
 | [3945-digit-frequency-score](https://github.com/mxoizzz/DSA/tree/master/3945-digit-frequency-score) |
+| [3986-number-of-elapsed-seconds-between-two-times](https://github.com/mxoizzz/DSA/tree/master/3986-number-of-elapsed-seconds-between-two-times) |
 ## Number Theory
 |  |
 | ------- |
