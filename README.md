@@ -285,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Database
 |  |
 | ------- |
+| [0584-find-customer-referee](https://github.com/mxoizzz/DSA/tree/master/0584-find-customer-referee) |
 | [0627-swap-sex-of-employees](https://github.com/mxoizzz/DSA/tree/master/0627-swap-sex-of-employees) |
 | [1693-daily-leads-and-partners](https://github.com/mxoizzz/DSA/tree/master/1693-daily-leads-and-partners) |
 | [1741-find-total-time-spent-by-each-employee](https://github.com/mxoizzz/DSA/tree/master/1741-find-total-time-spent-by-each-employee) |
