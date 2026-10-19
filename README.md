@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/mxoizzz/DSA/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/mxoizzz/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0485-max-consecutive-ones](https://github.com/mxoizzz/DSA/tree/master/0485-max-consecutive-ones) |
+| [0622-design-circular-queue](https://github.com/mxoizzz/DSA/tree/master/0622-design-circular-queue) |
 | [0877-stone-game](https://github.com/mxoizzz/DSA/tree/master/0877-stone-game) |
 | [0905-sort-array-by-parity](https://github.com/mxoizzz/DSA/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/mxoizzz/DSA/tree/master/0977-squares-of-a-sorted-array) |
@@ -259,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0024-swap-nodes-in-pairs](https://github.com/mxoizzz/DSA/tree/master/0024-swap-nodes-in-pairs) |
 | [0141-linked-list-cycle](https://github.com/mxoizzz/DSA/tree/master/0141-linked-list-cycle) |
 | [0237-delete-node-in-a-linked-list](https://github.com/mxoizzz/DSA/tree/master/0237-delete-node-in-a-linked-list) |
+| [0622-design-circular-queue](https://github.com/mxoizzz/DSA/tree/master/0622-design-circular-queue) |
 | [0707-design-linked-list](https://github.com/mxoizzz/DSA/tree/master/0707-design-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/mxoizzz/DSA/tree/master/0876-middle-of-the-linked-list) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/mxoizzz/DSA/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
@@ -308,11 +310,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0155-min-stack](https://github.com/mxoizzz/DSA/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/mxoizzz/DSA/tree/master/0225-implement-stack-using-queues) |
+| [0622-design-circular-queue](https://github.com/mxoizzz/DSA/tree/master/0622-design-circular-queue) |
 | [0707-design-linked-list](https://github.com/mxoizzz/DSA/tree/master/0707-design-linked-list) |
 ## Queue
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/mxoizzz/DSA/tree/master/0225-implement-stack-using-queues) |
+| [0622-design-circular-queue](https://github.com/mxoizzz/DSA/tree/master/0622-design-circular-queue) |
 ## Tree
 |  |
 | ------- |
