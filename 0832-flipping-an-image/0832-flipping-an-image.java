@@ -4,19 +4,16 @@ class Solution {
         for(int i = 0;i<n;i++){
             int left = 0;
             int right = n-1;
-            while(left < right){
-                int temp = image[i][left];
-                image[i][left] = image[i][right];
-                image[i][right] = temp;
-
+            while(left <= right){
+                if(left == right){
+                    image[i][left] ^= 1;
+                }
+                else if(image[i][left] == image[i][right]){
+                    image[i][left] ^= 1;
+                    image[i][right] ^= 1;
+                }
                 left++;
                 right--;
-            }
-        }
-
-        for(int i = 0; i<n; i++){
-            for(int j = 0; j<n;j++){
-                image[i][j] = image[i][j] ^ 1;
             }
         }
 
