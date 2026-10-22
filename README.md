@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/mxoizzz/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0485-max-consecutive-ones](https://github.com/mxoizzz/DSA/tree/master/0485-max-consecutive-ones) |
 | [0622-design-circular-queue](https://github.com/mxoizzz/DSA/tree/master/0622-design-circular-queue) |
+| [0832-flipping-an-image](https://github.com/mxoizzz/DSA/tree/master/0832-flipping-an-image) |
 | [0877-stone-game](https://github.com/mxoizzz/DSA/tree/master/0877-stone-game) |
 | [0905-sort-array-by-parity](https://github.com/mxoizzz/DSA/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/mxoizzz/DSA/tree/master/0977-squares-of-a-sorted-array) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0832-flipping-an-image](https://github.com/mxoizzz/DSA/tree/master/0832-flipping-an-image) |
 | [1260-shift-2d-grid](https://github.com/mxoizzz/DSA/tree/master/1260-shift-2d-grid) |
 | [1920-build-array-from-permutation](https://github.com/mxoizzz/DSA/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/mxoizzz/DSA/tree/master/1929-concatenation-of-array) |
@@ -100,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0832-flipping-an-image](https://github.com/mxoizzz/DSA/tree/master/0832-flipping-an-image) |
 | [1260-shift-2d-grid](https://github.com/mxoizzz/DSA/tree/master/1260-shift-2d-grid) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/mxoizzz/DSA/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1672-richest-customer-wealth](https://github.com/mxoizzz/DSA/tree/master/1672-richest-customer-wealth) |
@@ -180,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/mxoizzz/DSA/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/mxoizzz/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0680-valid-palindrome-ii](https://github.com/mxoizzz/DSA/tree/master/0680-valid-palindrome-ii) |
+| [0832-flipping-an-image](https://github.com/mxoizzz/DSA/tree/master/0832-flipping-an-image) |
 | [0876-middle-of-the-linked-list](https://github.com/mxoizzz/DSA/tree/master/0876-middle-of-the-linked-list) |
 | [0905-sort-array-by-parity](https://github.com/mxoizzz/DSA/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/mxoizzz/DSA/tree/master/0977-squares-of-a-sorted-array) |
@@ -368,6 +372,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/mxoizzz/DSA/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/mxoizzz/DSA/tree/master/0231-power-of-two) |
 | [0371-sum-of-two-integers](https://github.com/mxoizzz/DSA/tree/master/0371-sum-of-two-integers) |
+| [0832-flipping-an-image](https://github.com/mxoizzz/DSA/tree/master/0832-flipping-an-image) |
 ## Recursion
 |  |
 | ------- |
