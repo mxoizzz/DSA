@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/mxoizzz/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3894-traffic-signal-color](https://github.com/mxoizzz/DSA/tree/master/3894-traffic-signal-color) |
 | [3925-concatenate-array-with-reverse](https://github.com/mxoizzz/DSA/tree/master/3925-concatenate-array-with-reverse) |
+| [3959-check-good-integer](https://github.com/mxoizzz/DSA/tree/master/3959-check-good-integer) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -235,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3894-traffic-signal-color](https://github.com/mxoizzz/DSA/tree/master/3894-traffic-signal-color) |
 | [3895-count-digit-appearances](https://github.com/mxoizzz/DSA/tree/master/3895-count-digit-appearances) |
 | [3945-digit-frequency-score](https://github.com/mxoizzz/DSA/tree/master/3945-digit-frequency-score) |
+| [3959-check-good-integer](https://github.com/mxoizzz/DSA/tree/master/3959-check-good-integer) |
 | [3986-number-of-elapsed-seconds-between-two-times](https://github.com/mxoizzz/DSA/tree/master/3986-number-of-elapsed-seconds-between-two-times) |
 ## Number Theory
 |  |
