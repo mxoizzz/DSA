@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/mxoizzz/DSA/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/mxoizzz/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1470-shuffle-the-array](https://github.com/mxoizzz/DSA/tree/master/1470-shuffle-the-array) |
+| [1472-design-browser-history](https://github.com/mxoizzz/DSA/tree/master/1472-design-browser-history) |
 | [1480-running-sum-of-1d-array](https://github.com/mxoizzz/DSA/tree/master/1480-running-sum-of-1d-array) |
 | [1512-number-of-good-pairs](https://github.com/mxoizzz/DSA/tree/master/1512-number-of-good-pairs) |
 | [1598-crawler-log-folder](https://github.com/mxoizzz/DSA/tree/master/1598-crawler-log-folder) |
@@ -275,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0622-design-circular-queue](https://github.com/mxoizzz/DSA/tree/master/0622-design-circular-queue) |
 | [0707-design-linked-list](https://github.com/mxoizzz/DSA/tree/master/0707-design-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/mxoizzz/DSA/tree/master/0876-middle-of-the-linked-list) |
+| [1472-design-browser-history](https://github.com/mxoizzz/DSA/tree/master/1472-design-browser-history) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/mxoizzz/DSA/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 ## Stack
 |  |
@@ -285,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/mxoizzz/DSA/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/mxoizzz/DSA/tree/master/0225-implement-stack-using-queues) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/mxoizzz/DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1472-design-browser-history](https://github.com/mxoizzz/DSA/tree/master/1472-design-browser-history) |
 | [1598-crawler-log-folder](https://github.com/mxoizzz/DSA/tree/master/1598-crawler-log-folder) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/mxoizzz/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2000-reverse-prefix-of-word](https://github.com/mxoizzz/DSA/tree/master/2000-reverse-prefix-of-word) |
@@ -325,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/mxoizzz/DSA/tree/master/0225-implement-stack-using-queues) |
 | [0622-design-circular-queue](https://github.com/mxoizzz/DSA/tree/master/0622-design-circular-queue) |
 | [0707-design-linked-list](https://github.com/mxoizzz/DSA/tree/master/0707-design-linked-list) |
+| [1472-design-browser-history](https://github.com/mxoizzz/DSA/tree/master/1472-design-browser-history) |
 ## Queue
 |  |
 | ------- |
@@ -417,4 +421,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/mxoizzz/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [1472-design-browser-history](https://github.com/mxoizzz/DSA/tree/master/1472-design-browser-history) |
+## Data Stream
+|  |
+| ------- |
+| [1472-design-browser-history](https://github.com/mxoizzz/DSA/tree/master/1472-design-browser-history) |
 <!---LeetCode Topics End-->
