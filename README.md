@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/mxoizzz/DSA/tree/master/0219-contains-duplicate-ii) |
 | [0283-move-zeroes](https://github.com/mxoizzz/DSA/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/mxoizzz/DSA/tree/master/0349-intersection-of-two-arrays) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/mxoizzz/DSA/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0485-max-consecutive-ones](https://github.com/mxoizzz/DSA/tree/master/0485-max-consecutive-ones) |
 | [0622-design-circular-queue](https://github.com/mxoizzz/DSA/tree/master/0622-design-circular-queue) |
 | [0832-flipping-an-image](https://github.com/mxoizzz/DSA/tree/master/0832-flipping-an-image) |
@@ -208,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/mxoizzz/DSA/tree/master/0066-plus-one) |
 | [0231-power-of-two](https://github.com/mxoizzz/DSA/tree/master/0231-power-of-two) |
 | [0371-sum-of-two-integers](https://github.com/mxoizzz/DSA/tree/master/0371-sum-of-two-integers) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/mxoizzz/DSA/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0509-fibonacci-number](https://github.com/mxoizzz/DSA/tree/master/0509-fibonacci-number) |
 | [0836-rectangle-overlap](https://github.com/mxoizzz/DSA/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/mxoizzz/DSA/tree/master/0877-stone-game) |
