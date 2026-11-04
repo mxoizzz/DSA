@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/mxoizzz/DSA/tree/master/0258-add-digits) |
 | [0832-flipping-an-image](https://github.com/mxoizzz/DSA/tree/master/0832-flipping-an-image) |
 | [1260-shift-2d-grid](https://github.com/mxoizzz/DSA/tree/master/1260-shift-2d-grid) |
 | [1920-build-array-from-permutation](https://github.com/mxoizzz/DSA/tree/master/1920-build-array-from-permutation) |
@@ -212,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/mxoizzz/DSA/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/mxoizzz/DSA/tree/master/0066-plus-one) |
 | [0231-power-of-two](https://github.com/mxoizzz/DSA/tree/master/0231-power-of-two) |
+| [0258-add-digits](https://github.com/mxoizzz/DSA/tree/master/0258-add-digits) |
 | [0371-sum-of-two-integers](https://github.com/mxoizzz/DSA/tree/master/0371-sum-of-two-integers) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/mxoizzz/DSA/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0509-fibonacci-number](https://github.com/mxoizzz/DSA/tree/master/0509-fibonacci-number) |
@@ -249,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/mxoizzz/DSA/tree/master/0258-add-digits) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/mxoizzz/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/mxoizzz/DSA/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/mxoizzz/DSA/tree/master/3658-gcd-of-odd-and-even-sums) |
